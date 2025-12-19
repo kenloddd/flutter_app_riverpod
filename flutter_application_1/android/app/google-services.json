@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623050619154",
+    "project_id": "flutterdiary-fba3f",
+    "storage_bucket": "flutterdiary-fba3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623050619154:android:830c35bac6f5697d475bcb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrB6e24qr8aojM501e0xfsqF6X3nODws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
