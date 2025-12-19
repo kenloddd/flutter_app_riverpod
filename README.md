@@ -26,7 +26,7 @@
 
 1.  **Clone Repositori**:
     ```bash
-    git clone [https://github.com/kenloddd/flutter_app_riverpod.git](https://github.com/kenlodwiii/flutter_app_riverpod.git)
+    git clone [https://github.com/kenloddd/flutter_app_riverpod.git](https://github.com/kenloddd/flutter_app_riverpod.git)
     ```
 2.  **Instal Dependensi**:
     ```bash
